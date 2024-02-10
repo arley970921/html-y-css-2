@@ -1,0 +1,14 @@
+header{
+    background: #BBBBBB;
+}
+nav li{
+    display: inline; /*display inline es para modificar la orientación de la lista */
+    margin: 0 0 0 15px;
+}
+nav a{
+    text-transform: uppercase;/* text-transform: uppercase es pra convertir el txto en mayuscula*/
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
