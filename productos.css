@@ -65,3 +65,8 @@ nav a:hover{
     color: #c78c19;/*Propiedad hover para ue cambie de color*/
     text-decoration: underline;
 }
+footer{
+    text-align: center;
+    background: url(./Imagenes/bg.jpg);
+    padding: 40px;
+}
